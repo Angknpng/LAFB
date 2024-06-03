@@ -15,6 +15,13 @@ If you think our work is helpful, please cite
   publisher={IEEE}
 }
 ```
+## Overview
+### Framework
+[![avatar](https://github.com/Angknpng/LAFB/raw/main/figures/Framework.png)](https://github.com/Angknpng/LAFB/blob/main/figures/Framework.png)
+### RGB-D SOD Performance
+[![avatar](https://github.com/Angknpng/LAFB/raw/main/figures/RGBDCompare.png)](https://github.com/Angknpng/LAFB/blob/main/figures/RGBDCompare.png)
+### RGB-T SOD Performance
+[![avatar](https://github.com/Angknpng/LAFB/raw/main/figures/RGBTCompare.png)](https://github.com/Angknpng/LAFB/blob/main/figures/RGBTCompare.png)
 ## Data Preparation
 RGB-D and RGB-T  SOD datasets can be found here. [[baidu pan](https://pan.baidu.com/s/1bJcV2QTH-tWp358p5oGgeg?pwd=chjo) fetch code: chjo] 
 ## Predictions
