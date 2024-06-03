@@ -15,3 +15,37 @@ If you think our work is helpful, please cite
   publisher={IEEE}
 }
 ```
+## Data Preparation
+RGB-D and RGB-T  SOD datasets can be found here. [[baidu pan](https://pan.baidu.com/s/1bJcV2QTH-tWp358p5oGgeg?pwd=chjo) fetch code: chjo] 
+## Predictions
+
+RGB-D saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1xDrF0U2hMli91NKBK6tL6g?pwd=08jg) fetch code: 08jg]
+RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1ygTTpF3Q5ArTgKzUrX3PLQ?pwd=tmer) fetch code: tmer]
+
+## Pretrained Models
+Pretrained parameters can be found here.[[baidu pan](https://pan.baidu.com/s/1T17meMMASEDZNIjdohQHvQ?pwd=3ed6) fetch code: 3ed6]
+
+## Usage
+
+### Prepare
+
+1. Create directories for the experiment and parameter files.
+2. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
+3. Install other packages: `pip install -r requirements.txt`.
+4. Set your path of all datasets in `datasets.py`.
+
+### Train
+
+```
+python train.py
+```
+
+### Test
+
+```
+python test_produce_maps.py
+```
+
+## Contact
+
+If you have any questions, please contact us (kp.wang@foxmail.com).
