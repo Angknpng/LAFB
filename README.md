@@ -39,7 +39,7 @@ Pretrained parameters can be found here.[[baidu pan](https://pan.baidu.com/s/1T1
 1. Create directories for the experiment and parameter files.
 2. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
 3. Install other packages: `pip install -r requirements.txt`.
-4. Set your path of all datasets in `datasets.py`.
+4. Set your path of all datasets in `./Code/utils/options.py`.
 
 ### Train
 
