@@ -1,7 +1,7 @@
 # LAFB
 Code repository for our paper entilted "Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection" accepted at TCSVT 2024.
 
-arXiv version: In processing.
+arXiv version: https://arxiv.org/abs/2406.01127.
 ## Citing our work
 
 If you think our work is helpful, please cite
