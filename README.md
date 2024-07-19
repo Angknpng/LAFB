@@ -2,6 +2,8 @@
 Code repository for our paper entilted "Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection" accepted at TCSVT 2024.
 
 arXiv version: https://arxiv.org/abs/2406.01127.
+
+24.7.19. The prediction results and weights based on VGG and ResNet backbones have been updated in the Baidu network disk link below.
 ## Citing our work
 
 If you think our work is helpful, please cite
