@@ -26,8 +26,7 @@ If you think our work is helpful, please cite
 RGB-D and RGB-T  SOD datasets can be found here. [[baidu pan](https://pan.baidu.com/s/1bJcV2QTH-tWp358p5oGgeg?pwd=chjo) fetch code: chjo] 
 ## Predictions
 
-RGB-D saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1xDrF0U2hMli91NKBK6tL6g?pwd=08jg) fetch code: 08jg]
-RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1ygTTpF3Q5ArTgKzUrX3PLQ?pwd=tmer) fetch code: tmer]
+Saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/19GNoKIW-sDCgOPjdv_XqSQ?pwd=uodf) fetch code: uodf]
 
 ## Pretrained Models
 Pretrained parameters can be found here.[[baidu pan](https://pan.baidu.com/s/1T17meMMASEDZNIjdohQHvQ?pwd=3ed6) fetch code: 3ed6]
