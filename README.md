@@ -28,10 +28,10 @@ If you think our work is helpful, please cite
 RGB-D and RGB-T  SOD datasets can be found here. [[baidu pan](https://pan.baidu.com/s/1bJcV2QTH-tWp358p5oGgeg?pwd=chjo) fetch code: chjo] 
 ## Predictions
 
-Saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/19GNoKIW-sDCgOPjdv_XqSQ?pwd=uodf) fetch code: uodf]
+Saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/19GNoKIW-sDCgOPjdv_XqSQ?pwd=uodf) fetch code: uodf] or [[google drive](https://drive.google.com/drive/folders/1RSrdmZxdizrb58ULvuoAAF1UgxwpVHVp?usp=drive_link)]
 
 ## Pretrained Models
-Pretrained parameters can be found here.[[baidu pan](https://pan.baidu.com/s/1T17meMMASEDZNIjdohQHvQ?pwd=3ed6) fetch code: 3ed6]
+Pretrained parameters can be found here.[[baidu pan](https://pan.baidu.com/s/1T17meMMASEDZNIjdohQHvQ?pwd=3ed6) fetch code: 3ed6] or [[google drive](https://drive.google.com/drive/folders/1RSrdmZxdizrb58ULvuoAAF1UgxwpVHVp?usp=drive_link)]
 
 ## Usage
 
