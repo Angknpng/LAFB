@@ -362,7 +362,7 @@ class GCM(nn.Module):
 class Net(nn.Module):
     def __init__(self,channel=32, ind=50):
         super(Net, self).__init__()
-        self.layer_dep0 = nn.Conv2d(1, 3, kernel_size=1)
+        self.layer_dep0 = nn.Conv2d(1, 3, kernel_size=1) #For RGBT model: replace it as "self.layer_dep0 = nn.Conv2d(3, 3, kernel_size=1)", and replace ../utils/data.py as ../utils/data_RGBT.py
         self.backbone_rgb = Res2Net_model(ind)
         self.backbone_t = Res2Net_model(ind)
         self.fal1 = FAL()
