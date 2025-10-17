@@ -25,13 +25,13 @@ If you think our work is helpful, please cite
 ### RGB-T SOD Performance
 [![avatar](https://github.com/Angknpng/LAFB/raw/main/figures/RGBTCompare.png)](https://github.com/Angknpng/LAFB/blob/main/figures/RGBTCompare.png)
 ## Data Preparation
-RGB-D and RGB-T  SOD datasets can be found here. [[baidu pan](https://pan.baidu.com/s/1bJcV2QTH-tWp358p5oGgeg?pwd=chjo) fetch code: chjo] 
+RGB-D and RGB-T  SOD datasets can be found here. [[baidu pan](https://pan.baidu.com/s/1RE48go1wzGWymMblawG2wQ?pwd=vvgq) fetch code: vvgq] 
 ## Predictions
 
-Saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/19GNoKIW-sDCgOPjdv_XqSQ?pwd=uodf) fetch code: uodf] or [[google drive](https://drive.google.com/drive/folders/1RSrdmZxdizrb58ULvuoAAF1UgxwpVHVp?usp=drive_link)]
+Saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1VRJG35qH2-aMqqeu9bIA8g?pwd=ytjh) fetch code: ytjh] or [[google drive](https://drive.google.com/drive/folders/1RSrdmZxdizrb58ULvuoAAF1UgxwpVHVp?usp=drive_link)]
 
 ## Pretrained Models
-Pretrained parameters can be found here.[[baidu pan](https://pan.baidu.com/s/1T17meMMASEDZNIjdohQHvQ?pwd=3ed6) fetch code: 3ed6] or [[google drive](https://drive.google.com/drive/folders/1RSrdmZxdizrb58ULvuoAAF1UgxwpVHVp?usp=drive_link)]
+Pretrained parameters can be found here.[[baidu pan](https://pan.baidu.com/s/1Fct6_SB5HQf1yOd1GupL4w?pwd=etcn) fetch code: etcn] or [[google drive](https://drive.google.com/drive/folders/1RSrdmZxdizrb58ULvuoAAF1UgxwpVHVp?usp=drive_link)]
 
 ## Usage
 
